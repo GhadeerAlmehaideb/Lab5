@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CustomeAge">Age</string>
+    <string name="ActiveCustomer">Active Customer</string>
+    <string name="StudentName">Student Name</string>
+    <string name="StudentAge">Age</string>
+    <string name="ActiveStudent">Active Student</string>
+</resources>
